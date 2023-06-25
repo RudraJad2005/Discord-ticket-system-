@@ -1,0 +1,540 @@
+2023-06-23 19:51:05,183 - INFO - logging in using static token
+2023-06-23 19:51:07,816 - INFO - Shard ID None has connected to Gateway (Session ID: 13c61e9983d63f769d4ef489b582cedf).
+2023-06-23 19:51:09,831 - INFO - Logged in as Nexus Artemis - 892324001936982067
+2023-06-23 19:51:09,832 - INFO - ------
+2023-06-23 19:51:40,078 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild.id)
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild'
+2023-06-23 19:51:45,685 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild.id)
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild'
+2023-06-23 19:55:42,500 - INFO - logging in using static token
+2023-06-23 19:55:44,057 - INFO - Shard ID None has connected to Gateway (Session ID: d4efcac0580200b585f55ccaa65b463d).
+2023-06-23 19:55:46,086 - INFO - Logged in as Nexus Artemis - 892324001936982067
+2023-06-23 19:55:46,086 - INFO - ------
+2023-06-23 19:56:16,343 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild.id)
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild'
+2023-06-23 20:08:02,616 - INFO - logging in using static token
+2023-06-23 20:08:04,362 - INFO - Shard ID None has connected to Gateway (Session ID: f144de33c3d9ebcb70c1a8a701808c95).
+2023-06-23 20:08:06,386 - INFO - Logged in as Nexus Artemis - 892324001936982067
+2023-06-23 20:08:06,387 - INFO - ------
+2023-06-23 20:08:26,291 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild.id)
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild'
+2023-06-23 20:08:30,555 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild.id)
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild'
+2023-06-23 20:11:45,340 - INFO - logging in using static token
+2023-06-23 20:11:47,383 - INFO - Shard ID None has connected to Gateway (Session ID: 2777952930bf79ab602c9e8cba727d9d).
+2023-06-23 20:11:49,403 - INFO - Logged in as Nexus Artemis - 892324001936982067
+2023-06-23 20:11:49,404 - INFO - ------
+2023-06-23 20:12:13,161 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild_id)
+                   ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild_id'
+2023-06-24 22:33:08,253 - INFO - logging in using static token
+2023-06-24 22:33:09,984 - INFO - Shard ID None has connected to Gateway (Session ID: 17342cbbb4f2d7095f229f557563ce34).
+2023-06-24 22:33:11,996 - INFO - Logged in as Nexus Artemis - 892324001936982067
+2023-06-24 22:33:11,997 - INFO - ------
+2023-06-24 23:53:29,473 - INFO - logging in using static token
+2023-06-24 23:53:31,260 - INFO - Shard ID None has connected to Gateway (Session ID: 6fa02508fa9a4e6ec117ff79b95dc9e9).
+2023-06-24 23:53:33,269 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-24 23:53:33,270 - INFO - ------
+2023-06-25 15:06:27,045 - INFO - logging in using static token
+2023-06-25 15:06:28,799 - INFO - Shard ID None has connected to Gateway (Session ID: adb3efd9c7d9b43c19261e3133f54803).
+2023-06-25 15:06:30,804 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 15:06:30,805 - INFO - ------
+2023-06-25 15:11:04,611 - INFO - logging in using static token
+2023-06-25 15:11:06,291 - INFO - Shard ID None has connected to Gateway (Session ID: d2f4fd423eccdb05c7e7e37536fa1b4d).
+2023-06-25 15:11:08,382 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 15:11:08,382 - INFO - ------
+2023-06-25 15:14:11,354 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild_id)
+                   ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild_id'
+2023-06-25 15:31:46,989 - INFO - client disconnected
+2023-06-25 15:31:47,692 - INFO - Shard ID None has successfully RESUMED session d2f4fd423eccdb05c7e7e37536fa1b4d.
+2023-06-25 15:31:47,693 - INFO - client resumed
+2023-06-25 15:42:56,528 - INFO - logging in using static token
+2023-06-25 15:42:58,409 - INFO - Shard ID None has connected to Gateway (Session ID: 50c8db173cef4da05f45e12ee72e6e30).
+2023-06-25 15:43:00,565 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 15:43:00,566 - INFO - ------
+2023-06-25 15:43:19,874 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 15:43:19,877 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 15:43:19,879 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 15:43:19,881 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 15:47:19,144 - INFO - logging in using static token
+2023-06-25 15:47:20,997 - INFO - Shard ID None has connected to Gateway (Session ID: 57845bbf79324c33bc564293912f0635).
+2023-06-25 15:47:23,013 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 15:47:23,013 - INFO - ------
+2023-06-25 15:47:39,971 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 15:47:39,973 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 15:47:39,974 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 15:47:39,975 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 15:57:40,415 - INFO - logging in using static token
+2023-06-25 15:57:42,382 - INFO - Shard ID None has connected to Gateway (Session ID: 97cc81913ec8568f919c3c200f86dfce).
+2023-06-25 15:57:44,412 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 15:57:44,412 - INFO - ------
+2023-06-25 15:58:25,164 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 15:58:25,166 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 15:58:25,166 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 15:58:25,168 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 15:59:07,915 - WARNING - We are being rate limited. POST https://discord.com/api/v10/channels/1108710502596620378/messages responded with 429. Retrying in 0.30 seconds.
+2023-06-25 16:07:23,586 - INFO - logging in using static token
+2023-06-25 16:07:25,232 - INFO - Shard ID None has connected to Gateway (Session ID: e683c7814c3de2789cbf0ead9b61d502).
+2023-06-25 16:07:27,407 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:07:27,408 - INFO - ------
+2023-06-25 16:08:56,507 - INFO - logging in using static token
+2023-06-25 16:08:58,198 - INFO - Shard ID None has connected to Gateway (Session ID: 01c82a729d8895b2d9d86574797df7e4).
+2023-06-25 16:09:00,221 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:09:00,241 - INFO - ------
+2023-06-25 16:10:47,359 - INFO - logging in using static token
+2023-06-25 16:10:49,172 - INFO - Shard ID None has connected to Gateway (Session ID: 1664d585692b33a6059b0f2fa55279d8).
+2023-06-25 16:10:51,203 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:10:51,204 - INFO - ------
+2023-06-25 16:18:51,262 - INFO - logging in using static token
+2023-06-25 16:18:52,950 - INFO - Shard ID None has connected to Gateway (Session ID: 0a13a327dbdcd31ec6b85900db1200c5).
+2023-06-25 16:18:54,988 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:18:54,991 - INFO - ------
+2023-06-25 16:19:02,692 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:19:02,706 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:19:02,707 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:19:02,709 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:19:18,578 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:19:18,580 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:19:18,582 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:19:18,583 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:20:45,161 - INFO - logging in using static token
+2023-06-25 16:20:47,024 - INFO - Shard ID None has connected to Gateway (Session ID: cfd2e25f29d41940961d84dba9d05e60).
+2023-06-25 16:20:49,048 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:20:49,048 - INFO - ------
+2023-06-25 16:20:54,158 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:20:54,161 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:20:54,162 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:20:54,164 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:21:49,863 - INFO - logging in using static token
+2023-06-25 16:21:51,537 - INFO - Shard ID None has connected to Gateway (Session ID: 6dc1c97d55f23ce6ea76c6b2eb3b3106).
+2023-06-25 16:21:53,774 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:21:53,774 - INFO - ------
+2023-06-25 16:21:58,011 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:21:58,014 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:21:58,016 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:21:58,017 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:22:46,968 - INFO - logging in using static token
+2023-06-25 16:22:48,672 - INFO - Shard ID None has connected to Gateway (Session ID: 1449531f38a8a5bd9353b6a623f6e5c4).
+2023-06-25 16:22:50,846 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:22:50,847 - INFO - ------
+2023-06-25 16:22:57,359 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:22:57,361 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:22:57,362 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:22:57,364 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:29:30,769 - INFO - logging in using static token
+2023-06-25 16:29:32,499 - INFO - Shard ID None has connected to Gateway (Session ID: 420b8f33c92e24a8c1517ebc3c6df21b).
+2023-06-25 16:29:34,541 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:29:34,542 - INFO - ------
+2023-06-25 16:30:01,230 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:30:01,233 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:30:01,235 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:30:01,236 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:32:43,480 - INFO - logging in using static token
+2023-06-25 16:32:45,207 - INFO - Shard ID None has connected to Gateway (Session ID: dda6db85c293e3c3ab5a11d949eb9dfb).
+2023-06-25 16:32:47,262 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:32:47,263 - INFO - ------
+2023-06-25 16:33:07,556 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = int(interaction.guild_id)
+                   ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild_id'
+2023-06-25 16:36:00,173 - INFO - logging in using static token
+2023-06-25 16:36:01,887 - INFO - Shard ID None has connected to Gateway (Session ID: e27361f30086680b2c733d52a7822231).
+2023-06-25 16:36:03,908 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:36:03,908 - INFO - ------
+2023-06-25 16:36:13,657 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = int(interaction.guild.id)  # Use `interaction.guild` instead of `interaction.guild_id`
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild'
+2023-06-25 16:36:51,550 - INFO - logging in using static token
+2023-06-25 16:36:53,253 - INFO - Shard ID None has connected to Gateway (Session ID: 40fdc4690ede5feeff243fc9046ec757).
+2023-06-25 16:36:55,400 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:36:55,400 - INFO - ------
+2023-06-25 16:37:02,820 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild.id)  # Use `interaction.guild` instead of `interaction.guild_id`
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild'
+2023-06-25 16:38:19,728 - INFO - logging in using static token
+2023-06-25 16:38:21,496 - INFO - Shard ID None has connected to Gateway (Session ID: 066c258ce7701e624504632892408cce).
+2023-06-25 16:38:23,703 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:38:23,704 - INFO - ------
+2023-06-25 16:38:37,917 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.channel.guild.id)  # Use `interaction.guild` instead of `interaction.guild_id`
+                   ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'channel'
+2023-06-25 16:40:12,501 - INFO - logging in using static token
+2023-06-25 16:40:14,329 - INFO - Shard ID None has connected to Gateway (Session ID: 93fb89b91d8c10c940cad4573d4b6384).
+2023-06-25 16:40:16,358 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:40:16,358 - INFO - ------
+2023-06-25 16:40:24,393 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = int(interaction.channel.guild.id)  # Use `interaction.guild` instead of `interaction.guild_id`
+                   ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'channel'
+2023-06-25 16:42:26,762 - INFO - logging in using static token
+2023-06-25 16:42:28,919 - INFO - Shard ID None has connected to Gateway (Session ID: c4d9e850199aa58b2effa9af54f22c5c).
+2023-06-25 16:42:30,934 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:42:30,935 - INFO - ------
+2023-06-25 16:42:39,533 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild_id)  # Use `interaction.guild_id` to get the guild ID
+                   ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild_id'
+2023-06-25 16:42:42,803 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild_id)  # Use `interaction.guild_id` to get the guild ID
+                   ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild_id'
+2023-06-25 16:43:28,020 - INFO - logging in using static token
+2023-06-25 16:43:29,665 - INFO - Shard ID None has connected to Gateway (Session ID: e98f2e71062fd84c02728b7bef811fca).
+2023-06-25 16:43:31,693 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:43:31,694 - INFO - ------
+2023-06-25 16:43:40,619 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild.id)  # Use `interaction.guild_id` to get the guild ID
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild'
+2023-06-25 16:44:36,186 - INFO - logging in using static token
+2023-06-25 16:44:37,809 - INFO - Shard ID None has connected to Gateway (Session ID: 1c1ccccd57ce8e334871cd94bd433e27).
+2023-06-25 16:44:39,817 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:44:39,817 - INFO - ------
+2023-06-25 16:44:53,253 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\main.py", line 66, in on_command_error
+    await interaction.response.send_message(f"Try again after {round(error.retry_after, 2)}" , delete_after=2)
+          ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Context' object has no attribute 'response'
+2023-06-25 16:44:53,256 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:44:53,257 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:44:56,802 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild_id)  # Use `interaction.guild_id` to get the guild ID
+                   ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild_id'
+2023-06-25 16:52:19,317 - INFO - logging in using static token
+2023-06-25 16:52:20,957 - INFO - Shard ID None has connected to Gateway (Session ID: 6c238430337c107ca3a5cc76348beef4).
+2023-06-25 16:52:23,142 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:52:23,143 - INFO - ------
+2023-06-25 16:52:28,300 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\main.py", line 66, in on_command_error
+    await interaction.response.send_message(f"Try again after {round(error.retry_after, 2)}" , delete_after=2)
+          ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Context' object has no attribute 'response'
+2023-06-25 16:52:28,303 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:52:28,304 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:52:30,701 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild_id)  # Use `interaction.guild_id` to get the guild ID
+                   ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild_id'
+2023-06-25 16:54:16,396 - INFO - logging in using static token
+2023-06-25 16:54:18,002 - INFO - Shard ID None has connected to Gateway (Session ID: d23e23d6f96e65b39cf31ae9cd1df2e0).
+2023-06-25 16:54:20,035 - INFO - Logged in as tutorial bot - 1101919372341162004
+2023-06-25 16:54:20,035 - INFO - ------
+2023-06-25 16:54:28,631 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\main.py", line 66, in on_command_error
+    await interaction.response.send_message(f"Try again after {round(error.retry_after, 2)}" , delete_after=2)
+          ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'Context' object has no attribute 'response'
+2023-06-25 16:54:28,634 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: ModLeveling.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:54:28,635 - ERROR - Ignoring exception in on_command_error
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^
+TypeError: WarnCommand.on_command_error() takes 2 positional arguments but 3 were given
+2023-06-25 16:54:30,984 - ERROR - Ignoring exception in view <TicketSystemView timeout=None children=1> for item <Button style=<ButtonStyle.primary: 1> url=None disabled=False label='Create Ticket' emoji=None row=None>
+Traceback (most recent call last):
+  File "C:\Users\SVI\AppData\Local\Programs\Python\Python311\Lib\site-packages\discord\ui\view.py", line 427, in _scheduled_task
+    await item.callback(interaction)
+  File "c:\Users\SVI\OneDrive\Desktop\Projects\discord bot\cogs\ticket_system.py", line 57, in ticket_system
+    guild_id = str(interaction.guild.id)  # Use `interaction.guild` to get the guild object
+                   ^^^^^^^^^^^^^^^^^
+AttributeError: 'Button' object has no attribute 'guild'
